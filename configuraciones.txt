@@ -1,2 +1,3 @@
 configracion terraform
 configuracion aws
+configuracion entorno
