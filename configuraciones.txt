@@ -1,3 +1,5 @@
 configracion terraform
 configuracion aws
 configuracion entorno
+configuracion SO
+configuracion varias
